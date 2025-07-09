@@ -47,7 +47,7 @@ Hosted via GitHub Pages at: [omsarkar-dev.github.io/what-colour-is-that](https:/
 
 ## Screenshot
 
-![Screenshot of What Color Is It?](screenshot.png) *(Add this file manually if not available)*
+![Screenshot of What Color Is It?](screenshot.png)
 
 ## Credits
 
